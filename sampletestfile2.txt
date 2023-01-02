@@ -3,3 +3,4 @@ Git rever commit 1
 this is sample file 2
 
 
+ This is comparison lecture, Change in file 2
